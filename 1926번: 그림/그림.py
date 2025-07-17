@@ -16,3 +16,4 @@ import sys
 n, m = map(int, sys.stdin.readline().split())
 graph = [list(map(int, sys.stdin.readline().split())) for _ in range(n)]
 
+print("hi")
